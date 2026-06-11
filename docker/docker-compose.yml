@@ -3,9 +3,9 @@ version: '3.8'
 services:
   # FastAPI Application
   api:
-    build:
+      build:
       context: ..
-      dockerfile: docker/Dockerfile
+      dockerfile: Dockerfile
     container_name: modelforge-api
     ports:
       - "8000:8000"

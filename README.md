@@ -250,11 +250,8 @@ modelforge/
 
 ## 📸 Screenshots
 
-*Add screenshots of:*
-- *MLflow UI with experiment runs*
-- *FastAPI Swagger docs*
-- *GitHub Actions pipeline*
-- *Docker containers running*
+![MLflow UI](screenshots/mlflow-ui.png)
+*MLflow experiment tracking dashboard*
 
 ## 🗺️ Roadmap
 
